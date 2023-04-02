@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Home-Work/static/css/main.9fa37ba9.css",
+    "main.js": "/Home-Work/static/js/main.247a8e73.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Home-Work/static/js/787.28cb0dcd.chunk.js",
+    "static/media/211.jpeg": "/Home-Work/static/media/211.b5ee32fe09e5cf7359b5.jpeg",
+    "static/media/1.jpeg": "/Home-Work/static/media/1.1d50ee31e90535e07b41.jpeg",
+    "static/media/212.jpeg": "/Home-Work/static/media/212.da41bf37fcd963eea89a.jpeg",
+    "static/media/124.jpeg": "/Home-Work/static/media/124.8818ca3610f9adc8ecdc.jpeg",
+    "static/media/3.jpeg": "/Home-Work/static/media/3.c4bdec151f7aae0e9786.jpeg",
+    "static/media/6.jpeg": "/Home-Work/static/media/6.549b067b5331f32fdf08.jpeg",
+    "static/media/7.jpeg": "/Home-Work/static/media/7.1a971e1b71bea23da851.jpeg",
+    "static/media/2.jpeg": "/Home-Work/static/media/2.d1d16f53a1ac38e620cd.jpeg",
+    "static/media/4.jpeg": "/Home-Work/static/media/4.b6c0d3478aca39f361ca.jpeg",
+    "index.html": "/Home-Work/index.html",
+    "main.9fa37ba9.css.map": "/Home-Work/static/css/main.9fa37ba9.css.map",
+    "main.247a8e73.js.map": "/Home-Work/static/js/main.247a8e73.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Home-Work/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa37ba9.css",
+    "static/js/main.247a8e73.js"
+  ]
+}
